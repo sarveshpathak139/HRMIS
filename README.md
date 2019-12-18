@@ -4,7 +4,7 @@ List of pages :
 
 
 
-<h3>Pavan patil :- <h3>
+<h3>Pavan patil :- </h3>
 No of Pages:- 3   
   
 Title in excel sheet :  Interview Schdule..
@@ -39,4 +39,4 @@ No of Pages :- 1
 Title Name :-  MASTER TEMPLETE 
 
 <h4>page name :</h4>
-1. HR & ADMIN DASHBOARD / EMPLOYEE MASTER
+1. HR & ADMIN DASHBOARD / EMPLOYEE MASTER  :-  <a href="https://github.com/Nishad00/HRMIS/blob/master/Master%20Template.html">Master TEMPLETE</a>
