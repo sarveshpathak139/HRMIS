@@ -41,4 +41,5 @@ Title Name :-  MASTER TEMPLETE
 <h4>page name :</h4>
 1. HR & ADMIN DASHBOARD / EMPLOYEE MASTER  :-  <a href="https://github.com/Nishad00/HRMIS/blob/master/Master%20Template.html">Master TEMPLETE</a>
 <br>
-2. REQUISITION :- 
+2. REQUISITION :- <a href="https://github.com/Nishad00/HRMIS/blob/master/Requisition.html"> REQUISITION PAGE 1 </a>
+<br>
